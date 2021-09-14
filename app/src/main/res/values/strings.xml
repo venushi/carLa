@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Course Work</string>
+    <string name="identify_the_car_make">Identify the Car Make</string>
+    <string name="hints">Hints</string>
+    <string name="identify_the_car_image">Identify the Car Image</string>
+    <string name="advanced_level">Advanced Level</string>
+</resources>
